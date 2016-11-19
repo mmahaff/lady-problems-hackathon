@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 # Lady Problems
-Your app description, here.
+Your app description, HERE!
